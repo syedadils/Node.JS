@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "\"new era of coding\"",
+  "main": "index.js",
+  "author": "Syed Adil <syedadil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
